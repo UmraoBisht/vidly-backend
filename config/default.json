@@ -1,0 +1,4 @@
+{
+    "ApplicationName":"Vidly.com",
+    "jwtPrivateKey": "myPrivateKey"
+}

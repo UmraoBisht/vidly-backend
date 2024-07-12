@@ -1,0 +1,9 @@
+{
+    "ApplicationName": "Vidly.dev",
+    "DBServer":{
+        "uri":"mongodb://localhost/ecommerce"
+    },
+    "mail": {
+        "host": "dev-mail-server"
+    }
+}
